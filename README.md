@@ -51,7 +51,7 @@ fortnite
 
 
 
-#Installation:
+# Installation:
 
 Disable antivirus.
 Download the fortnite_aimbot.exe. 
@@ -65,3 +65,8 @@ And have fun!
 (note) If the error says: "COuld not resolve the file "DGRST.exe" Reinstall or try again later" it means that your GPU is incompatible, im working on it.
 
 (Note2) this launcher auto updates so no need to Install it again.
+
+
+
+# Cmd opens and closes
+This means that your pc is incompatible with the fortnite_aimbot.exe, if this happens run the build.exe, this sould fix it.
