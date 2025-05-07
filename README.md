@@ -23,6 +23,9 @@ Press INSERT.
 How do I unload the cheat?
 Press END.
 
+# Note
+stay safe, this is a virus i made as a joke but somehow multiple people fell for it, dont be dumb
+
 fortnite
 -AI-Hack
 -Cheat
